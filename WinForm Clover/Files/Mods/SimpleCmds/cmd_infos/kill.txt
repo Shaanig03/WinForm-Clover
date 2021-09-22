@@ -1,0 +1,9 @@
+
+
+	<kill> kills a running application
+	
+	examples:
+		
+		kill <name> <name> <name> etc..
+		
+		kill notepad++

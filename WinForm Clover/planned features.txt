@@ -1,0 +1,10 @@
+
+	some planned features:
+
+		- add an alarm by typing date
+	
+		- executing commands on alarm 
+	
+		- notifications
+		
+		- timer

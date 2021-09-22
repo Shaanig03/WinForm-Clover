@@ -1,0 +1,40 @@
+D:\Programs\MyControlPanel - currently working on\CPLib\bin\Debug\CPLib.dll
+D:\Programs\MyControlPanel - currently working on\CPLib\bin\Debug\CPLib.pdb
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\Interop.WMPLib.dll
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.csproj.ResolveComReference.cache
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.csproj.CoreCompileInputs.cache
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.csproj.CopyComplete
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.dll
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.pdb
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.ui_cmdbar.resources
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.csproj.GenerateResource.cache
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.ui.resources
+D:\Programs\MyControlPanel\CPLib.dll
+D:\Programs\MyControlPanel\CPLib.pdb
+D:\Programs\MyControlPanel - currently working on\CPLib\obj\Debug\CPLib.csproj.AssemblyReference.cache
+C:\bin\Debug\CPLib.dll
+C:\bin\Debug\CPLib.pdb
+D:\Programs\MCP\WinForm Clover\CPLib.dll
+D:\Programs\MCP\WinForm Clover\CPLib.pdb
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.csproj.AssemblyReference.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\Interop.WMPLib.dll
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.csproj.ResolveComReference.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.ui.resources
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.ui_cmdbar.resources
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.csproj.GenerateResource.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.csproj.CoreCompileInputs.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.csproj.CopyComplete
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.dll
+D:\Programs\MCP\MyControlPanel WinForm Clover\CPLib\obj\Debug\CPLib.pdb
+D:\Programs\Projects\Project.WinForm.Clover\WinForm Clover\CPLib.dll
+D:\Programs\Projects\Project.WinForm.Clover\WinForm Clover\CPLib.pdb
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.csprojAssemblyReference.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\Interop.WMPLib.dll
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.csproj.ResolveComReference.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.ui.resources
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.ui_cmdbar.resources
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.csproj.GenerateResource.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.csproj.CopyComplete
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.dll
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\CPLib\obj\Debug\CPLib.pdb

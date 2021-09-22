@@ -1,0 +1,8 @@
+
+
+	<log> is for deleting the log
+	
+	examples:
+		
+		log clear, clears the log
+		

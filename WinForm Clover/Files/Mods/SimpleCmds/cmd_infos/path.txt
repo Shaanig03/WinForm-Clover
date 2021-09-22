@@ -1,0 +1,13 @@
+
+
+	<path> is for creating paths for faster navigation, paths can be folders, file or a url link 
+	
+	examples:
+		
+		path set <name> <path>
+			
+		path delete <name>
+
+		path <name> , opens path 
+
+		

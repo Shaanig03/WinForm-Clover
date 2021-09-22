@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CPLib;
+
+namespace Example
+{
+    public static class Class1
+    {
+        public static void OnLoad()
+        {
+            
+            CPCmdBar.RegisterCmd("testcmd", "Example", "Example.Class1", "Test");
+        }
+
+        // the method must have these 3 parameters (string line, string[] args, LoadedAssembly assembly)
+        public static void Test(string line, string[] args, LoadedAssembly assembly)
+        {
+            int i = 0;
+
+            vars.log("string line: " + line);
+
+            foreach(string _str in args)
+            {
+                vars.log(string.Format("string[] args {0}: {1}", i, _str));
+                i++;
+            }
+        }
+    }
+}

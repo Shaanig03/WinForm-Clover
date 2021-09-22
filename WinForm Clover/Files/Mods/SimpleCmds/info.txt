@@ -1,0 +1,20 @@
+
+	adds simple commands and things
+	
+		commands:
+	
+			/help <command_name>, show's information about the cmd
+			
+			/help, shows a list of commands 
+			
+			
+			/path set <name> <path>, sets a path, can be a file, directory or a url 
+			
+			/path delete <name>, deletes a path 
+			
+			/path <name>, opens a path
+			
+			/log clear, clears the log 
+			
+			/say <text>, prints text to log
+			

@@ -1,0 +1,36 @@
+D:\Programs\MyControlPanel - currently working on\ControlPanel\bin\Debug\ControlPanel.exe.config
+D:\Programs\MyControlPanel - currently working on\ControlPanel\bin\Debug\ControlPanel.exe
+D:\Programs\MyControlPanel - currently working on\ControlPanel\bin\Debug\ControlPanel.pdb
+D:\Programs\MyControlPanel - currently working on\ControlPanel\bin\Debug\CPLib.dll
+D:\Programs\MyControlPanel - currently working on\ControlPanel\bin\Debug\CompAssistLib.dll
+D:\Programs\MyControlPanel - currently working on\ControlPanel\bin\Debug\CPLib.pdb
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.cache
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.csproj.CoreCompileInputs.cache
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.csproj.CopyComplete
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.exe
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.pdb
+D:\Programs\MyControlPanel - currently working on\ControlPanel\obj\Debug\ControlPanel.csproj.AssemblyReference.cache
+D:\Programs\MyControlPanel\ControlPanel.exe.config
+D:\Programs\MyControlPanel\ControlPanel.exe
+D:\Programs\MyControlPanel\ControlPanel.pdb
+D:\Programs\MCP\WinForm Clover\ControlPanel.exe.config
+D:\Programs\MCP\WinForm Clover\ControlPanel.exe
+D:\Programs\MCP\WinForm Clover\ControlPanel.pdb
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.AssemblyReference.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.CoreCompileInputs.cache
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.CopyComplete
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.exe
+D:\Programs\MCP\MyControlPanel WinForm Clover\ControlPanel\obj\Debug\ControlPanel.pdb
+D:\Programs\Projects\Project.WinForm.Clover\WinForm Clover\ControlPanel.exe.config
+D:\Programs\Projects\Project.WinForm.Clover\WinForm Clover\ControlPanel.exe
+D:\Programs\Projects\Project.WinForm.Clover\WinForm Clover\ControlPanel.pdb
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csprojAssemblyReference.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.csproj.CopyComplete
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.exe
+D:\Programs\Projects\Project.WinForm.Clover\Project WinForm Clover\ControlPanel\obj\Debug\ControlPanel.pdb

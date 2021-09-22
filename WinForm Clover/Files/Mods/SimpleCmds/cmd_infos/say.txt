@@ -1,0 +1,8 @@
+
+
+	<say> 
+	
+	examples:
+		
+		say <text>, prints text to log
+		

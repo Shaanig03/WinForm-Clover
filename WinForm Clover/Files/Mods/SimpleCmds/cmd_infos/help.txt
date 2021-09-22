@@ -1,0 +1,11 @@
+
+
+	<help> shows the information and usage of a command
+	
+	examples:
+		
+		help <cmd> <cmd> etc...
+			
+		help, displays a list of commands
+
+		
